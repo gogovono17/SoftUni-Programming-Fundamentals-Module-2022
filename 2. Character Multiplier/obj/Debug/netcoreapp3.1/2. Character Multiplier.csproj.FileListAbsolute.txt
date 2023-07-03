@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.exe
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.deps.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.runtimeconfig.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\bin\Debug\netcoreapp3.1\2. Character Multiplier.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\2. Character Multiplier\obj\Debug\netcoreapp3.1\2. Character Multiplier.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.exe
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.deps.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.runtimeconfig.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\bin\Debug\netcoreapp3.1\1. Valid Usernames.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\1. Valid Usernames\obj\Debug\netcoreapp3.1\1. Valid Usernames.genruntimeconfig.cache

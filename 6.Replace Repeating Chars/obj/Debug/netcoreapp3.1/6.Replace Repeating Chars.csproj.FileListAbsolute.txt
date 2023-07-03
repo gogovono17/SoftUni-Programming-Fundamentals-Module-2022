@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.Replace Repeating Chars.exe
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.Replace Repeating Chars.deps.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.Replace Repeating Chars.runtimeconfig.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.Replace Repeating Chars.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.Replace Repeating Chars.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\bin\Debug\netcoreapp3.1\6.Replace Repeating Chars.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\6.Replace Repeating Chars\obj\Debug\netcoreapp3.1\6.Replace Repeating Chars.genruntimeconfig.cache

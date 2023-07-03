@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.exe
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.deps.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.runtimeconfig.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\bin\Debug\netcoreapp3.1\4. Caesar Cipher.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\4. Caesar Cipher\obj\Debug\netcoreapp3.1\4. Caesar Cipher.genruntimeconfig.cache

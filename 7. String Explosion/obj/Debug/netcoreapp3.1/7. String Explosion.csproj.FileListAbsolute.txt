@@ -1,0 +1,14 @@
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.exe
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.deps.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.runtimeconfig.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.runtimeconfig.dev.json
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\bin\Debug\netcoreapp3.1\7. String Explosion.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.csproj.AssemblyReference.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.AssemblyInfoInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.AssemblyInfo.cs
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.csproj.CoreCompileInputs.cache
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.dll
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.pdb
+D:\dawnloads\C# Курс\Text Processing - Exercise\7. String Explosion\obj\Debug\netcoreapp3.1\7. String Explosion.genruntimeconfig.cache
